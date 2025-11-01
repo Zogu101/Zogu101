@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Web Development projects
 - 💬 Ask me about Websites
 - 📫 Reach me one 07039181743 or ezeoguebuka1@gmail.com
-- ⚡ Fun fact: I love writing code
+- ⚡ Fun fact: I love writing codes and building.
 -->
