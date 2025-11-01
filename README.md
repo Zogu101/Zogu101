@@ -1,11 +1,4 @@
-
-
-<!--
-**Zogu101/Zogu101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👋 Hi, I'm Ebuka Ezeogu
+###- 👋 Hi, I'm Ebuka Ezeogu
 - 🔭 I’m interested in Web Development
 - 🌱 I’m currently learning Laravel and PHP
 - 👯 I’m looking to collaborate on Web Development projects
