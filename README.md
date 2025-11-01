@@ -1,4 +1,4 @@
-###- 👋 Hi, I'm Ebuka Ezeogu
+- 👋 Hi, I'm Ebuka Ezeogu
 - 🔭 I’m interested in Web Development
 - 🌱 I’m currently learning Laravel and PHP
 - 👯 I’m looking to collaborate on Web Development projects
