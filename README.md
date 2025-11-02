@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning Laravel and PHP
 - 👯 I’m looking to collaborate on Web Development projects
 - 💬 Ask me about Websites
-- 📫 Reach me one 07039181743 or ezeoguebuka1@gmail.com
+- 📫 Reach me on 07039181743 or ezeoguebuka1@gmail.com
 - ⚡ Fun fact: I love writing codes and building.
